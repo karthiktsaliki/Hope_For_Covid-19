@@ -6,9 +6,9 @@ In this project I am dealing with the covid 19 dataset and extrapolating data to
 https://github.com/karthiktsaliki/Hope_For_Covid-19
 
 ## Libraries used
-### pandas: Pandas is a software library written for the Python programming language for data manipulation and analysis.
+** pandas**: Pandas is a software library written for the Python programming language for data manipulation and analysis.
 
-### sklearn: Machine learning library for the Python programming language. It features for classification and regression.
+** sklearn**: Machine learning library for the Python programming language. It features for classification and regression.
 
 ## Motivation
 There is lot of fake information spreading out but genuinely suggesting the people with estimated timeline at when this can be eradicated is the biggest challenged. How much impact we create daily by maintaining social distancing? If the virus spread increases people might turn depressed and the chance of committing suicides will be higher by which the problem turns even worse. I suggest we can help in creating a hope in people by giving some valid dates of when the issue can be resolved. 
